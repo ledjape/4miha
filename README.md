@@ -1,2 +1,2 @@
 # 4miha
-A website/blog about life and it's details
+A website/blog about life's details
